@@ -1,4 +1,4 @@
- ![image](https://github.com/LemonSaaS/ghostsocks/raw/master/screenshots/lemonsaas.png)
+ ![lemonsaas](https://img.imjad.cn/images/2017/11/15/lemonsaas1.png)
 
 # [ghostsocks](https://github.com/gwuhaolin/lightsocks)
 基于 SOCKS5 协议的一个轻量级网络混淆代理
