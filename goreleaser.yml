@@ -1,0 +1,23 @@
+builds:
+  - binary: pproxy-local
+    main: ./cmd/pproxy-local/main.go
+    goos:
+       - windows
+       - darwin
+       - linux
+       - freebsd
+    goarch:
+       - amd64
+       - 386
+       - arm
+  - binary: pproxy-server
+    main: ./cmd/pproxy-server/main.go
+    goos:
+       - windows
+       - darwin
+       - linux
+       - freebsd
+    goarch:
+       - amd64
+       - 386
+       - arm
